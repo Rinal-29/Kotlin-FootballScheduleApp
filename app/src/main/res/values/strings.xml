@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Submission 1</string>
+
+    <string-array name="name_league">
+        <item>English Premier league</item>
+        <item>League 1</item>
+        <item>Bundesliga</item>
+        <item>Serie A</item>
+        <item>la liga</item>
+        <item>American Mayor League</item>
+        <item>portugeuese premiera liga</item>
+        <item>Autralian league</item>
+        <item>Scotish premiere league</item>
+        <item>English league 1</item>
+    </string-array>
+
+    <array name="img_league">
+        <item>@drawable/premier_league</item>
+        <item>@drawable/france</item>
+        <item>@drawable/bundesliga</item>
+        <item>@drawable/seria</item>
+        <item>@drawable/laliga</item>
+        <item>@drawable/american</item>
+        <item>@drawable/portugis</item>
+        <item>@drawable/australian</item>
+        <item>@drawable/scot</item>
+        <item>@drawable/inggris_1</item>
+    </array>
+
+    <string-array name="desc_league">
+        <item>The Premier League often referred to as the English Premier League EPL outside England, is the top level of the English football league system.Ligue 1 (French pronunciation ​League 1, formerly known as Division 1), is the French professional league for association football clubs. The Football Bundesliga (English Football Federal League), commonly known as the Bundesliga, is a professional association football league in Germany and the football league with the highest average stadium attendance worldwide.Serie A, also called Serie A TIM due to sponsorship by Telecom Italia, is a professional league competition for football clubs located at the top of the Italian football league system and has been operating for over eighty years since the 1929–30 season. </item>
+        <item>Ligue 1 (French pronunciation ​League 1, formerly known as Division 1), is the French professional league for association football clubs. </item>
+        <item>The Football Bundesliga (English Football Federal League), commonly known as the Bundesliga, is a professional association football league in Germany and the football league with the highest average stadium attendance worldwide. </item>
+        <item>Serie A, also called Serie A TIM due to sponsorship by Telecom Italia, is a professional league competition for football clubs located at the top of the Italian football league system and has been operating for over eighty years since the 1929–30 season. </item>
+        <item>The Primera Division, commonly known as La Liga and as La Liga Santander for sponsorship reasons, is the top professional association football division of the Spanish football league system. </item>
+        <item>Major League Soccer MLS is a professional soccer league representing the sports highest level in both the United States and Canada. MLS constitutes one of the major professional sports leagues of the United States and Canada. </item>
+        <item>The Primeira Liga (First League Portuguese pronunciation ), formerly called Primeira Divisao, is the top professional association football division of the Portuguese football league system.</item>
+        <item>The A-League is a professional mens soccer league, run by Football Federation Australia (FFA).</item>
+        <item>The Scottish Premiership is the top division of the Scottish Professional Football League, the league competition for professional football clubs in Scotland. </item>
+        <item>Football League One (often referred to as League One for short or Sky Bet League 1) is the second-highest division of the Football League and the third tier in the English football league system.</item>
+    </string-array>
+
+    <string-array name="idLeague">
+        <item>4328</item>
+        <item>4329</item>
+        <item>4330</item>
+        <item>4331</item>
+        <item>4332</item>
+        <item>4339</item>
+        <item>4334</item>
+        <item>4335</item>
+        <item>4341</item>
+        <item>4337</item>
+        <item>4338</item>
+    </string-array>
+</resources>
