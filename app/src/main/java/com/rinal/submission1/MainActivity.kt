@@ -14,8 +14,6 @@ class MainActivity : AppCompatActivity() {
 
     private var items: MutableList<Item> = mutableListOf()
 
-    private lateinit var progressBar: ProgressBar
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
